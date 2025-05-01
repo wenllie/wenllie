@@ -57,6 +57,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. L
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### Others
 ![Trello](https://img.shields.io/badge/Trello-%2300A0DC.svg?style=flat&logo=trello&logoColor=white)
